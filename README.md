@@ -1,5 +1,5 @@
 
-<img src="./img/thug_apenft.png" align="center" width="120" height="178">
+<img src="./img/thug_apenft.png" align="center" width="178" height="178">
 
 ```
 ➜ ./jwne/readme.md ~ git:(master) ✗ screen neofetch
