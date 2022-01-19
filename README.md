@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**jwne/jwne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+➜ ./jwne/readme.md ~ git:(master) ✗ screen neofetch
+```
+```md
+| jwne@github
+| ------------
+| 
+| 📧・weloveroots@protonmail.com.
+| 📝・420 Years old.
+| 🏴・BOTNET.
+            
+➜ ./jwne/readme.md ~ git:(master) ✗ tree
+.
+├── Learning
+│   ├── Golang
+│   ├── Cpp
+│   └── C
+|
+├── Backend_Dev.txt
+└── social_media.md
 
-Here are some ideas to get you started:
+➜ ./jwne/readme.md ~ git:(master) ✗ cat social_media.md
+"""
+  ・Twitter    -> twitter.com/crudities
+  ・GitHub     -> github.com/jwne
+  ・Telegram   -> t.me/lilb2012
+"""  
+➜ ./jwne/readme.md ~ git:(master) ✗ 
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/jwne?style=social">
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/jwne?style=social">
+  <img src="https://komarev.com/ghpvc/?username=jwne&color=blue">
+</p>
